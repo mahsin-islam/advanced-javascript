@@ -12,7 +12,7 @@
 
 let name = null;
 // let age = 0;
-// if(age || age == 0){
+// if(age || age == 0){ // ai khatre 0 true condioton bujhat epare but amni age bosaile aita negative meaning suru korbe
 console.log(name);
 if(name) {
     console.log("Condition is true");
