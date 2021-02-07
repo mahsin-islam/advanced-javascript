@@ -1,0 +1,10 @@
+const nums = [1,2,3,4,5,6,7,8];
+// console.log(nums);
+const part = nums.slice(2,5);
+const splice1 = nums.splice(2,5);
+// const splice1 = nums.splice(2,5,77);
+// const together = splice1.join(",");
+// console.log(together);
+console.log(part);
+console.log(splice1);
+// console.log(nums);
